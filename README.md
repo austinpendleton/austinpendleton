@@ -2,11 +2,11 @@
 
 I am looking to contribute to innovation in the tech world in any way I can!
 
-I am currently working on the app below. It is in early stages of devleopment but its an app centered around golf.
+The most recent app I have built is called I Can Hit That Far...
 
 ⛳️   ⬇️
 
-The user can add clubs to their bag with distances they are comfortable hitting that club. Then on the home page while the user is golfing, the user inputs how far they are from the hole and the app will give the user a golf club recommendation. 
+The user can add clubs to their bag with distances they are comfortable hitting that club. Then on while the user is golfing, they input their distance from the hole and the app will give the user a golf club recommendation based on the clubs they added. 
 
 <img width="1261" alt="golf app for github" src="https://github.com/austinpendleton/austinpendleton/assets/113260431/532ad66e-c82a-4116-b787-0871637cba77">
 
