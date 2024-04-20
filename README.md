@@ -21,5 +21,8 @@ The user can add clubs to their bag with distances they are comfortable hitting 
 
 ### Socials:
 
-<img src="" alt="linkedin" link="">
-<img src="" alt="instagram" link="">
+<a href="https://www.linkedin.com/in/austinp-tech/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="200" width="800"/>
+</a>
+
+
