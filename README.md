@@ -1,3 +1,12 @@
+
+<div style="text-align: center;">
+    <img src="https://github.com/austinpendleton/austinpendleton/assets/113260431/7962220b-9166-475e-809f-87602174b404" width="300" height="200">
+</div>
+
+
+
+
+
 ### Hey, I'm Austin! 😎
 
 I am looking to contribute to innovation in the tech world in any way I can!
