@@ -13,7 +13,6 @@ I am looking to contribute to innovation in the tech world in any way I can!
 
 The most recent app I have built is called "I Can Hit That Far"...
 
-### ⛳️   ⬇️
 
 The user can add clubs to their bag with distances they are comfortable hitting that club. Then on while the user is golfing, they input their distance from the hole and the app will give the user a golf club recommendation based on the clubs they added. 
 
