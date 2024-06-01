@@ -1,11 +1,8 @@
-
 <div style="text-align: center;">
-    <a href="austinpendleton.com">
-    <img src="https://github.com/austinpendleton/austinpendleton/assets/113260431/7962220b-9166-475e-809f-87602174b404" width="300" height="200">
+    <a href="https://austinpendleton.com">
+        <img src="https://github.com/austinpendleton/austinpendleton/assets/113260431/7962220b-9166-475e-809f-87602174b404" width="300" height="200" alt="Austin Pendleton Website">
     </a>
 </div>
-
-
 
 
 
