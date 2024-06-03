@@ -17,14 +17,24 @@ The user can add clubs to their bag with distances they are comfortable hitting 
 
 <img width="1000" height="500" alt="golf app for github" src="https://github.com/austinpendleton/austinpendleton/assets/113260431/532ad66e-c82a-4116-b787-0871637cba77">
 
+
+
 ### Skills:
 
-* HTML
-* CSS
-* React
-* JavaScript
-* Python
-* AND MORE!
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML logo" width="80" height="40">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS logo" width="80" height="40">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" alt="React logo" width="80" height="40">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript logo" width="80" height="40">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python logo" width="80" height="40">
+    <img src="https://img.shields.io/badge/-RestAPI-85EA2D?logo=swagger&logoColor=000&style=flat" alt="RestAPI logo" width="80" height="40">
+    <img src="https://img.shields.io/badge/-NodeJS-339933?logo=nodedotjs&logoColor=fff&style=flat" alt="NodeJS logo" width="80" height="40">
+    <img src="https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=fff&style=flat" alt="ExpressJS logo" width="80" height="40">
+</div>
+
+
+
+
 
 ### Socials:
 
