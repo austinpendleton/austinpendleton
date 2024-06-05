@@ -42,5 +42,4 @@ The user can add clubs to their bag with distances they are comfortable hitting 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="80" width="250"/>
 </a>
 
-Portfolio Site
-Download Resume
+
