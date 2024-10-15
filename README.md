@@ -6,7 +6,7 @@
 
 
 
-### Hey, I'm Austin! 😎
+### Hey, my name is Austin! 😎
 
 I am looking to contribute to innovation in the tech world in any way I can!
 
