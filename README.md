@@ -10,7 +10,7 @@
 
 I am looking to contribute to innovation in the tech world in any way I can!
 
-The most recent app I have built is called:
+The most recent app I have built from front to back is called:
 
 ## "I Can Hit That Far"
 
