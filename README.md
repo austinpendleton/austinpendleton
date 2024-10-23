@@ -15,7 +15,7 @@ The most recent app I have built from front to back is called:
 ## "I Can Hit That Far"
 
 
-The user can add clubs to their bag with distances they are comfortable hitting that club. Then while the user is out golfing, they input their distance from the hole on the home screen and the app will give the user a golf club recommendation based on the clubs and distances they added. 
+The user adds clubs to their bag with distances they are comfortable hitting each club. While the user is out golfing, they input their distance from the hole on the home screen and the app will give the user a golf club recommendation based on the clubs and distances they added. 
 
 <img width="1000" height="500" alt="golf app for github" src="https://github.com/austinpendleton/austinpendleton/assets/113260431/532ad66e-c82a-4116-b787-0871637cba77">
 
